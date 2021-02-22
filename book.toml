@@ -1,0 +1,6 @@
+[book]
+authors = ["Edmund Miller"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Applied Genomics"
