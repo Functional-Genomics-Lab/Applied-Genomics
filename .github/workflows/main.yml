@@ -50,10 +50,10 @@ jobs:
         mdbook --version
     - name: Spellcheck
       run: bash ci/spellcheck.sh list
-    - name: Lint for local file paths
-      run: |
-        mdbook build
-        cargo run --bin lfp src
+    # - name: Lint for local file paths
+    #   run: |
+    #     mdbook build
+    #     cargo run --bin lfp src
     - name: Validate references
       run: bash ci/validate.sh
     - name: Check for broken links
