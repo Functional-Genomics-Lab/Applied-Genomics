@@ -11,3 +11,9 @@
 ### Unix commands; python; sql ; R
 
 # Reproducible Analysis {#lab}
+
+## Jupyter
+<!-- TODO -->
+
+## Git
+<!-- TODO -->

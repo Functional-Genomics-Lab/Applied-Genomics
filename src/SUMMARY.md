@@ -3,7 +3,7 @@
 |             WEEK | TOPICS                         | Lab                    |
 | ---------------: | ------------------------------ | ---------------------- |
 | [1](./week_1.md) | Introduction                   | Intro to Slurm         |
-| [2](./week_2.md) | unix commands; python; sql ; R | Jupyter/git            |
+| [2](./week_2.md) | unix commands; python; sql ; R | Reproducible Analysis  |
 | [3](./week_3.md) | databases and datasets         | STAR Tutorial          |
 | [4](./week_4.md) | transcriptomics                | Intro to nf-core       |
 | [4](./week_5.md) | epigenomics                    | Journal Club of Paper  |
