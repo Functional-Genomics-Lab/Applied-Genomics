@@ -1,6 +1,6 @@
-# Databases and Datasets :lecture:
+# Databases and Datasets {#lecture}
 
-# Reproducible Exercise :lab:
+# Reproducible Exercise {#lab}
 
 <!-- TODO -->
 

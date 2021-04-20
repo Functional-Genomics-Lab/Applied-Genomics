@@ -1,6 +1,6 @@
-# transcriptomics :lecture:
+# transcriptomics {#lecture}
 
-# Intro to nf-core :lab:
+# Intro to nf-core {#lab}
 <!-- TODO -->
 
 # Homework

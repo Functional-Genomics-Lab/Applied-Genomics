@@ -1,10 +1,8 @@
-# Lecture
-
-## Introduction
+# Introduction {#lecture}
 
 ## Why reproducible Research?
 
-# Intro to Slurm :lab:
+# Intro to Slurm {#lab}
 <!-- TODO -->
 
 ## Logging into Sysbio

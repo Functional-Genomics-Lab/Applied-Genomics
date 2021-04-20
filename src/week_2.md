@@ -1,4 +1,4 @@
-# unix commands; python; sql ; R :lecture:
+# unix commands; python; sql ; R {#lecture}
 
 ## Scripting Basics
 
@@ -9,3 +9,5 @@
 #### High Level vs Low level languages
 
 ### Unix commands; python; sql ; R
+
+# Reproducible Analysis {#lab}
