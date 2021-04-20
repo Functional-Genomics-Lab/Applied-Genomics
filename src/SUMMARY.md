@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [RESOURCES](./RESOURCES.md)
+- [Week 1](./week_1.md)
