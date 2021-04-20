@@ -1,4 +1,4 @@
-# unix commands; python; sql ; R :lecture:
+# Databases and Datasets :lecture:
 
 # Reproducible Exercise :lab:
 
@@ -11,4 +11,4 @@ things.
 
 # Homework
 
-Write up a markdown doc with steps to reproduce
+Write up a markdown doc with steps to reproduce a basic workflow from the exercise.
