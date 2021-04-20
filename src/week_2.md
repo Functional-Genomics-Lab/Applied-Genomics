@@ -9,8 +9,3 @@
 #### High Level vs Low level languages
 
 ### Unix commands; python; sql ; R
-
-### Logging into Sysbio
-
-- Just to get any issues out of the way
-
