@@ -7,9 +7,9 @@ NP,3,data/SRR002252.fastq.gz,,H3K4me1,NP_Input
 NP,1,data/SRR002247.fastq.gz,,H3K4me2,NP_Input
 NP,2,data/SRR002248.fastq.gz,,H3K4me2,NP_Input
 NP,3,data/SRR002249.fastq.gz,,H3K4me2,NP_Input
-ES,1,data/SRR002253.fastq.gz,,H3K4me2,ENCSR000ADJ
-ES,2,data/SRR002254.fastq.gz,,H3K4me2,ENCSR000ADJ
-ES,3,data/SRR002255.fastq.gz,,H3K4me2,ENCSR000ADJ
+ES,1,data/SRR002253.fastq.gz,,H3K4me2,ES_Input
+ES,2,data/SRR002254.fastq.gz,,H3K4me2,ES_Input
+ES,3,data/SRR002255.fastq.gz,,H3K4me2,ES_Input
 Brain,1,data/SRR002256.fastq.gz,,H3K4me3,ENCSR000CDB
 Brain,1,data/SRR002257.fastq.gz,,H3K4me2,ENCSR000CDB
 Brain,1,data/SRR002258.fastq.gz,,H3K27me3,ENCSR000CDB
@@ -20,3 +20,5 @@ NP_Input,1,data/control/np/ENCFF202WAI.fastq.gz,,,
 NP_Input,1,data/control/np/ENCFF125ETQ.fastq.gz,,,
 NP_Input,2,data/control/np/ENCFF557BAE.fastq.gz,,,
 NP_Input,2,data/control/np/ENCFF066LAE.fastq.gz,,,
+ES_Input,1,data/control/es/ENCFF001NNN.fastq.gz,,,
+ES_Input,2,data/control/es/ENCFF001NNP.fastq.gz,,,

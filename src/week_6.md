@@ -52,4 +52,14 @@ https://www.encodeproject.org/files/ENCFF202WAI/@@download/ENCFF202WAI.fastq.gz
 xargs -n 1 curl -O -L < ENCSR295GGT_files.txt
 ```
 
+#### ES Control
+
+es_control.txt
+
+```txt
+"https://www.encodeproject.org/metadata/?type=Experiment&accession=ENCSR000ADJ&files.output_category=raw+data&files.output_type=reads&files.status=released"
+https://www.encodeproject.org/files/ENCFF001NNN/@@download/ENCFF001NNN.fastq.gz
+https://www.encodeproject.org/files/ENCFF001NNP/@@download/ENCFF001NNP.fastq.gz
+```
+
 ## Creating a samplesheet
