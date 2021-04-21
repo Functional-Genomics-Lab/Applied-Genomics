@@ -22,6 +22,20 @@ Technical replication
 : Two replicates from the same biosample, treated identically for each replicate
 (e.g. same growth, same knockdown).
 
+#### [MEF Control](https://www.encodeproject.org/experiments/ENCSR000CBB/)
+
+mef_files.txt
+
+```txt
+"https://www.encodeproject.org/metadata/?type=Experiment&accession=ENCSR000CBB&files.output_category=raw+data&files.output_type=reads&files.status=released"
+https://www.encodeproject.org/files/ENCFF001KPR/@@download/ENCFF001KPR.fastq.gz
+https://www.encodeproject.org/files/ENCFF001KPS/@@download/ENCFF001KPS.fastq.gz
+```
+
+```bash
+xargs -n 1 curl -O -L < mef_files.txt
+```
+
 #### NP Control
 
 ENCSR295GGT_files.txt

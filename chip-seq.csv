@@ -1,6 +1,6 @@
 group,replicate,fastq_1,fastq_2,antibody,control
-MEF,1,data/SRR001644.fastq.gz,,H3K4me3,ENCSR000CBB
-MEF,2,data/SRR001645.fastq.gz,,H3K4me3,ENCSR000CBB
+MEF,1,data/SRR001644.fastq.gz,,H3K4me3,MEF_Input
+MEF,2,data/SRR001645.fastq.gz,,H3K4me3,MEF_Input
 NP,1,data/SRR002250.fastq.gz,,H3K4me1,NP_Input
 NP,2,data/SRR002251.fastq.gz,,H3K4me1,NP_Input
 NP,3,data/SRR002252.fastq.gz,,H3K4me1,NP_Input
@@ -13,6 +13,8 @@ ES,3,data/SRR002255.fastq.gz,,H3K4me2,ENCSR000ADJ
 Brain,1,data/SRR002256.fastq.gz,,H3K4me3,ENCSR000CDB
 Brain,1,data/SRR002257.fastq.gz,,H3K4me2,ENCSR000CDB
 Brain,1,data/SRR002258.fastq.gz,,H3K27me3,ENCSR000CDB
+MEF_Input,1,data/control/mef/ENCLB122VYE.fastq.gz,,,
+MEF_Input,2,data/control/mef/ENCLB027AAG.fastq.gz,,,
 NP_Input,1,data/control/np/ENCFF078PNM.fastq.gz,,,
 NP_Input,1,data/control/np/ENCFF202WAI.fastq.gz,,,
 NP_Input,1,data/control/np/ENCFF125ETQ.fastq.gz,,,
