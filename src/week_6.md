@@ -62,4 +62,18 @@ https://www.encodeproject.org/files/ENCFF001NNN/@@download/ENCFF001NNN.fastq.gz
 https://www.encodeproject.org/files/ENCFF001NNP/@@download/ENCFF001NNP.fastq.gz
 ```
 
+#### Brain Control
+
+brain_control.txt
+
+```txt
+"https://www.encodeproject.org/metadata/?type=Experiment&accession=ENCSR000CDB&files.output_category=raw+data&files.output_type=reads&files.status=released"
+https://www.encodeproject.org/files/ENCFF001LAO/@@download/ENCFF001LAO.fastq.gz
+https://www.encodeproject.org/files/ENCFF786ODW/@@download/ENCFF786ODW.fastq.gz
+```
+
+```bash
+xargs -n 1 curl -O -L < brain_control.txt
+```
+
 ## Creating a samplesheet
