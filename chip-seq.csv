@@ -13,8 +13,8 @@ ES,3,data/SRR002255.fastq.gz,,H3K4me2,ES_Input
 Brain,1,data/SRR002256.fastq.gz,,H3K4me3,Brain_Input
 Brain,1,data/SRR002257.fastq.gz,,H3K4me2,Brain_Input
 Brain,1,data/SRR002258.fastq.gz,,H3K27me3,Brain_Input
-MEF_Input,1,data/control/mef/ENCLB122VYE.fastq.gz,,,
-MEF_Input,2,data/control/mef/ENCLB027AAG.fastq.gz,,,
+MEF_Input,1,data/control/mef/ENCFF001KPR.fastq.gz,,,
+MEF_Input,2,data/control/mef/ENCFF001KPS.fastq.gz,,,
 NP_Input,1,data/control/np/ENCFF078PNM.fastq.gz,,,
 NP_Input,1,data/control/np/ENCFF202WAI.fastq.gz,,,
 NP_Input,1,data/control/np/ENCFF125ETQ.fastq.gz,,,
