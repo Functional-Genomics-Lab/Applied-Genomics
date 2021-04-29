@@ -6,6 +6,15 @@
 
 Using SRA-explorer
 
+https://www.ncbi.nlm.nih.gov/Traces/study/?acc=%20PRJNA106863&o=acc_s%3Aa
+
+To download a txt file list of SRA IDs for a GEO DataSet, search
+https://www.ncbi.nlm.nih.gov/geo using the GEO accesssion (found in the data
+availability section of published papers). Click SRA Run Selector at the bottom
+of the GEO accession page. In the SRA Run Selector sample table tick the desired
+samples and then download the Accession List. This downloads a txt file called
+SRR_Acc_List.txt which can be used as input to `--public_data_ids`.
+
 ### Finding controls
 
 Using Encode
