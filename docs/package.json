@@ -1,0 +1,19 @@
+{
+  "name": "applied-genomics",
+  "version": "0.0.1",
+  "description": "Course material for Applied Genomics",
+  "main": "index.js",
+  "authors": {
+    "name": "Edmund Miller",
+    "email": "eam150030@utdallas.edu"
+  },
+  "repository": "https://github.com/Functional-Genomics-Lab/Applied-Genomics/Applied Genomics",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
