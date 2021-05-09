@@ -13,4 +13,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: Functional-Genomics-Lab/Applied-Genomics
         BUILD_SCRIPT: cd docs && yarn && yarn build
-        BUILD_DIR: docs/src/.vuepress/dist/
+        # The `cd docs` keeps it in the docs directory
+        BUILD_DIR: src/.vuepress/dist/
