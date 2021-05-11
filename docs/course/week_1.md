@@ -2,7 +2,7 @@
 title: Week 1
 ---
 
-# Introduction
+# Reproducible Research and Setup Environment
 
 ## This is not a programming class; this is a “workflows” class
 
