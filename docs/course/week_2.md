@@ -1,3 +1,7 @@
+---
+title: Week 2
+---
+
 # unix commands; python; sql ; R {#lecture}
 
 ## Scripting Basics
@@ -13,7 +17,9 @@
 # Reproducible Analysis {#lab}
 
 ## Jupyter
+
 <!-- TODO -->
 
 ## Git
+
 <!-- TODO -->

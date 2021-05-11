@@ -1,10 +1,14 @@
+---
+title: Week 1
+---
+
 # Introduction {#lecture}
 
 ## This is not a programming class; this is a “workflows” class
 
 ## Why reproducible Research?
 
-# Intro to Slurm {#lab}
+# Intro to Slurm { #lab }
 
 <!-- TODO -->
 

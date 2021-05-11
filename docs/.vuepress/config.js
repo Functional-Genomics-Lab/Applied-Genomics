@@ -38,6 +38,7 @@ module.exports = {
     // editLinkText: '',
     lastUpdated: true,
     smoothScroll: true,
+    sidebarDepth: 2,
     nav: [
       {
         text: 'Course',
@@ -53,13 +54,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: ['', 'using-vue'],
-        },
-      ],
+      '/course/': ['week_1', 'week_2'],
     },
   },
 
