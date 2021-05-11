@@ -2,9 +2,9 @@
 
 |               WEEK | TOPICS                         | Lab                                         |
 | -----------------: | ------------------------------ | ------------------------------------------- |
-|   [1](./week_1.md) | Introduction                   | Reproducible Research and Setup Environment |
-|   [2](./week_2.md) | unix commands; python; sql ; R | Documentation, VCS, Build Systems           |
-|   [3](./week_3.md) | databases and datasets         | Intro to HPC                                |
+|   [1](./week_1.md) | Introduction                   | Reproducible Research & Setup Environment |
+|   [2](./week_2.md) | unix commands; python; sql ; R | Documentation & VCS                         |
+|   [3](./week_3.md) | databases and datasets         | Build Systems & Intro to HPC                |
 |   [4](./week_4.md) | transcriptomics                | STAR Tutorial                               |
 |   [5](./week_5.md) | epigenomics                    | Intro to nf-core                            |
 |   [6](./week_6.md) |                                | Journal Club of Paper                       |
