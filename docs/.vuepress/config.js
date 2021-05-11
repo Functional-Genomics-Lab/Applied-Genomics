@@ -34,6 +34,7 @@ module.exports = {
     docsBranch: 'main',
     // editLinkText: '',
     lastUpdated: true,
+    smoothScroll: true,
     nav: [
       {
         text: 'Guide',
