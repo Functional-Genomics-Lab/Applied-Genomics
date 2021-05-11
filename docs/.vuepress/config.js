@@ -66,5 +66,11 @@ module.exports = {
     '@vuepress/plugin-medium-zoom',
     '@vuepress/active-header-links',
     'check-md',
+    [
+      'md-enhance',
+      {
+        footnote: true,
+      },
+    ],
   ],
 };
