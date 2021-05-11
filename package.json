@@ -9,12 +9,14 @@
   },
   "repository": "https://github.com/Functional-Genomics-Lab/Applied-Genomics",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "docs:check": "vuepress check-md docs",
+    "docs:dev": "vuepress dev docs"
   },
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.8.2",
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-check-md": "^0.0.2"
   }
 }
