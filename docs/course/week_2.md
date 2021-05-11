@@ -2,7 +2,29 @@
 title: Week 2
 ---
 
-# unix commands; python; sql ; R {#lecture}
+***This section is meant to introduce some topics, and where to find information,
+but not be a comprehensive overview itself.**
+
+# Version Control Systems
+
+## Why is git important for scientists?
+
+| Research Stage               | Record Keeping                                               |
+| ---------------------------- | ------------------------------------------------------------ |
+| Data Collection & Experiment | Record parameters and changes in lab notebook(paper/digital) |
+| Data processing & Analysis   | ?                                                            |
+
+```
+Version control of code == lab notebook of experiment
+```
+
+[^1]
+
+## What we're going to avoid
+
+!["final".doc](http://phdcomics.com/comics/archive/phd101212s.gif)
+
+# Documentation
 
 ## Scripting Basics
 
@@ -23,3 +45,7 @@ title: Week 2
 ## Git
 
 <!-- TODO -->
+
+<!-- TODO Add Links -->
+
+[^1]: 04-git_workshop of HPC
