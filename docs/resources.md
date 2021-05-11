@@ -2,6 +2,8 @@
 
 # Slurm
 
+- [UTD OIT HPC Docs](http://docs.oithpc.utdallas.edu)
+
 # nf-core
 
 # Bioinformatics

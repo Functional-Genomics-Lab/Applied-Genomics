@@ -37,12 +37,12 @@ module.exports = {
     smoothScroll: true,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Course',
+        link: '/course/'
       },
       {
-        text: 'OIT HPC Docs',
-        link: 'http://docs.oithpc.utdallas.edu'
+        text: 'Resources',
+        link: '/resources/'
       },
       {
         text: 'Functional Genomics Laboratory',
