@@ -1,4 +1,13 @@
+---
+title: Resources
+---
+
 # Scripting
+
+# Reproducible Research
+
+- [Awesome Reproducible
+  Research](https://github.com/leipzig/awesome-reproducible-research)
 
 # Slurm
 

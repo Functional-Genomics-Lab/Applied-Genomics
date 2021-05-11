@@ -45,6 +45,11 @@ Save time for your future self, and for researchers who come after you.
 - Version Control
 - Utilizing build systems
 
+## How big of a problem is this?
+
+[Awesome Reproducible
+Research](https://github.com/leipzig/awesome-reproducible-research)
+
 ## Logging into Sysbio
 
 Just to check that everyone has access and get any issues out of the way!
