@@ -28,11 +28,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
+    repo: 'Functional-Genomics-Lab/Applied-Genomics',
+    editLinks: true,
+    docsDir: 'docs',
+    docsBranch: 'main',
+    // editLinkText: '',
+    lastUpdated: true,
     nav: [
       {
         text: 'Guide',
