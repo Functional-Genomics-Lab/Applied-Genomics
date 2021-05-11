@@ -39,12 +39,12 @@ module.exports = {
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'OIT HPC Docs',
+        link: 'http://docs.oithpc.utdallas.edu'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Functional Genomics Laboratory',
+        link: 'http://taehoonkim.org/'
       }
     ],
     sidebar: {
