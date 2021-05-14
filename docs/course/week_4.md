@@ -1,7 +1,10 @@
 # transcriptomics {#lecture}
 
 # Intro to nf-core {#lab}
+
 <!-- TODO -->
+
+# Multiqc
 
 # Homework
 
