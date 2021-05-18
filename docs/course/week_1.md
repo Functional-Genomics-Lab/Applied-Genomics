@@ -84,3 +84,8 @@ Utilize the UTD VPN Service:
 
 You should see:
 <!-- TODO Add screenshot -->
+
+# Assignment 1
+
+[Create a GitHub account](https://github.com/join) and submit your username
+through elearning.
