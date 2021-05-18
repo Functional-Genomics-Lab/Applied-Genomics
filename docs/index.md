@@ -5,10 +5,16 @@ tagline: Course material for Applied Genomics
 actionText: Course →
 actionLink: /course/
 features:
-- title: Data Analysis
-  details:
-- title: Reproducible Research
-  details: How to utilize https://nf-co.re/ to avoid reinventing the wheel.
-- title: Feature 3 Title
-  details: Feature 3 Description
+  - title: Data Analysis
+    details:
+  - title: Reproducible Research
+    details: How to utilize https://nf-co.re/ to avoid reinventing the wheel.
+  - title: Feature 3 Title
+    details: Feature 3 Description
 ---
+
+## Alumni
+
+| NAME | Sememster |
+| ---- | --------- |
+|      |           |
