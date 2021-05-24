@@ -12,10 +12,10 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Applied Genomics',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   src: 'img/functional-genomics.png',
+      // },
       items: [
         {
           type: 'doc',
