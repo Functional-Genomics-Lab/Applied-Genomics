@@ -1,20 +1,14 @@
----
-home: true
-heroImage: https://images.squarespace-cdn.com/content/v1/5321e7e3e4b060d312818d81/1396230674564-C1NSO9BCUI0JCBYHY1I0/ke17ZwdGBToddI8pDm48kAvcEKSstDEs9GYye1i97VIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKclDG0ff02xsk4_ey1utKrldwYW1Vi4DgDBc67EGEeQXr4KkpdDz7DFB1FXc-vyRyF/DNA-logo.png
-tagline: Course material for Applied Genomics
-actionText: Course →
-actionLink: /course/
-features:
-  - title: Data Analysis
-    details:
-  - title: Reproducible Research
-    details: How to utilize https://nf-co.re/ to avoid reinventing the wheel.
-  - title: Feature 3 Title
-    details: Feature 3 Description
----
+# Overview
 
-## Alumni
-
-| NAME | Sememster |
-| ---- | --------- |
-|      |           |
+|               WEEK | TOPICS                         | Lab                                         |
+| -----------------: | ------------------------------ | ------------------------------------------- |
+|   [1](./week_1.md) | Introduction                   | Reproducible Research & Setup Environment |
+|   [2](./week_2.md) | unix commands; python; sql ; R | Documentation & VCS                         |
+|   [3](./week_3.md) | databases and datasets         | Build Systems & Intro to HPC                |
+|   [4](./week_4.md) | transcriptomics                | STAR Tutorial                               |
+|   [5](./week_5.md) | epigenomics                    | Intro to nf-core                            |
+|   [6](./week_6.md) |                                | Journal Club of Paper                       |
+|   [7](./week_7.md) | mutations                      | ChIP-Seq Preprocessing with nf-core         |
+|   [8](./week_8.md) | proteomics                     | Reproduction: TBD                           |
+|   [9](./week_9.md) | networks                       | Reproduction: TBD                           |
+| [10](./week_10.md) | final project presentation     | Reproduction: TBD                           |

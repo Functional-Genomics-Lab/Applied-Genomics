@@ -1,5 +1,9 @@
 ---
+id: week-1
 title: Week 1
+description: Environment Setup
+sidebar_label: "Week 1"
+sidebar_position: 0
 ---
 
 # Reproducible Research and Setup Environment
