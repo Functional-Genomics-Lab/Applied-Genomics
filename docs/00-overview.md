@@ -7,15 +7,15 @@ sidebar_label: 'Overview'
 
 # Overview
 
-|               WEEK | TOPICS                         | Lab                                         |
-| -----------------: | ------------------------------ | ------------------------------------------- |
-|   [1](./week_1.md) | Introduction                   | Reproducible Research & Setup Environment |
-|   [2](./week_2.md) | unix commands; python; sql ; R | Documentation & VCS                         |
-|   [3](./week_3.md) | databases and datasets         | Build Systems & Intro to HPC                |
-|   [4](./week_4.md) | transcriptomics                | STAR Tutorial                               |
-|   [5](./week_5.md) | epigenomics                    | Intro to nf-core                            |
-|   [6](./week_6.md) |                                | Journal Club of Paper                       |
-|   [7](./week_7.md) | mutations                      | ChIP-Seq Preprocessing with nf-core         |
-|   [8](./week_8.md) | proteomics                     | Reproduction: TBD                           |
-|   [9](./week_9.md) | networks                       | Reproduction: TBD                           |
-| [10](./week_10.md) | final project presentation     | Reproduction: TBD                           |
+|                    WEEK | TUESDAY                     | THURSDAY                            |
+| ----------------------: | --------------------------- | ----------------------------------- |
+|       [1](./week_01.md) | Introduction                | [Setup Environment](./week_01.md)   |
+| [2](./week_02/intro.md) | Reproducible Computing      | Jupyter & HPC                       |
+|        [3](./week_3.md) | Databases and Datasets      | STAR Tutorial                       |
+|        [4](./week_4.md) | Transcriptomics             | Intro to nf-core                    |
+|        [5](./week_5.md) | Epigenomics                 | ChIP-Seq Setup                      |
+|        [6](./week_6.md) | Epigenomics                 | ChIP-Seq Preprocessing with nf-core |
+|        [7](./week_7.md) | Mutations                   | Lab: TBA                            |
+|        [8](./week_8.md) | Lab: TBA                    | Lab: TBA                            |
+|        [9](./week_9.md) | Final Project Presentations | Final Project Presentations         |
+|      [10](./week_10.md) | Concluding Remarks          |                                     |
