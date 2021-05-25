@@ -10,9 +10,12 @@ const FeatureList = [
   },
   {
     title: 'Reproducible Research',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/nf-core-logo.svg').default,
     description: (
-      <>How to utilize https://nf-co.re/ to avoid reinventing the wheel. </>
+      <>
+        How to utilize <a href="https://nf-co.re/">nf-core</a> to avoid
+        reinventing the wheel.{' '}
+      </>
     ),
   },
   {
