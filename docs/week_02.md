@@ -114,7 +114,7 @@ Now for practice, commit only the line that has "This will be the third commit"
 
 1. In the Source Control window, open the "COMMITS" drawer. You should see
 
-![VS Code Commits](./vs_code_commits.png)
+![VS Code Commits](/img/week_02/vs_code_commits.png)
 
 2. You can click though the "FILE HISTORY" and view old versions of the file
 
