@@ -1,12 +1,12 @@
 ---
 id: week-1
-title: Week 1
-description: Environment Setup
-sidebar_label: "Week 1"
-sidebar_position: 0
+title: Environment Setup
+description: ''
+sidebar_label: 'Week 1'
+sidebar_position: 1
 ---
 
-# Reproducible Research and Setup Environment
+# Environment Setup
 
 ## This is not a programming class; this is a “workflows” class
 
@@ -87,6 +87,7 @@ Utilize the UTD VPN Service:
 5. `sinfo`
 
 You should see:
+
 <!-- TODO Add screenshot -->
 
 # Assignment 1

@@ -1,5 +1,9 @@
 ---
+id: resources
 title: Resources
+description: Various links
+sidebar_label: "Resources"
+sidebar_position: -1
 ---
 
 # Scripting

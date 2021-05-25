@@ -1,5 +1,9 @@
 ---
-title: Week 2
+id: week-2
+title: Reproducible Research
+description: Reproducible Research
+sidebar_label: 'Week 2'
+sidebar_position: 2
 ---
 
 **This section is meant to introduce some topics, and where to find information,

@@ -1,3 +1,10 @@
+---
+id: overview
+title: Course Overview
+description: Course Overview
+sidebar_label: 'Overview'
+---
+
 # Overview
 
 |               WEEK | TOPICS                         | Lab                                         |

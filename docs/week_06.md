@@ -1,4 +1,9 @@
-# TODO {#lecture}
+---
+id: week-6
+title: ChIP-Seq Preprocessing
+description: ''
+sidebar_label: 'Week 6'
+---
 
 # ChIP-Seq Preprocessing {#lab}
 
