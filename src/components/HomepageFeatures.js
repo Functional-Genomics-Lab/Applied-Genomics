@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Data Analysis',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/jupyter-logo.svg').default,
     description: <>Data exploration, hypothesis generation, and biases. </>,
   },
   {
