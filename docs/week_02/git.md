@@ -1,17 +1,10 @@
 ---
-id: week-2
-title: Reproducible Research
-description: Reproducible Research
-sidebar_label: 'Week 2'
-sidebar_position: 2
+id: git
+title: Version Control Systems
+description: git
+sidebar_label: 'Version Control Systems'
+sidebar_position: 1
 ---
-
-**This section is meant to introduce some topics, and where to find information,
-but not be a comprehensive overview itself.**
-
-# What we're going to avoid
-
-!["final".doc](http://phdcomics.com/comics/archive/phd101212s.gif)
 
 # Version Control Systems
 
@@ -121,23 +114,6 @@ Now for practice, commit only the line that has "This will be the third commit"
 ![VS Code Commits](/img/week_02/vs_code_commits.png)
 
 2. You can click though the "FILE HISTORY" and view old versions of the file
-
-# Documentation
-
-# Assignment 2
-
-1. Create a fork of the course material
-2. Clone that repo locally
-3. Open up `docs/index.md`
-4. Add your name and semester to the Alumni table
-5. Create a PR to the main repo
-
-::: details Check out
-[First-contributions](https://github.com/firstcontributions/first-contributions)
-or [First contributions with
-VS-code](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-windows-vs-code-tutorial.md)
-for ideas.
-:::
 
 [^1]: 04-git_workshop of HPC
 [^2]: [Missing Semester Version Control lecture](https://missing.csail.mit.edu/2020/version-control/)
