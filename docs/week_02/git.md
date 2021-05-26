@@ -33,11 +33,7 @@ Modern VCSs also let you easily (and often automatically) answer questions like[
 
 ![git.png](https://imgs.xkcd.com/comics/git.png)
 
-In case you get lost:
-
-- [Missing Semester Version Control lecture](https://missing.csail.mit.edu/2020/version-control/)
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-- [Resources to learn Git](https://try.github.io/)
+In case you get lost check out [Further Reading](#further-reading)
 
 ### VS Code Workflow
 
@@ -119,9 +115,6 @@ Now for practice, commit only the line that has "This will be the third commit"
 
 2. You can click though the "FILE HISTORY" and view old versions of the file
 
-[^1]: 04-git_workshop of HPC
-[^2]: [Missing Semester Version Control lecture](https://missing.csail.mit.edu/2020/version-control/)
-
 #### Creating a remote
 
 1. [Create a GitHub account](https://github.com/join)
@@ -142,3 +135,12 @@ git push -u origin main
 6. Check your GitHub repo and see if the code got pushed!
 
 ### So what's a remote?
+
+## Further Reading
+
+- [Missing Semester Version Control lecture](https://missing.csail.mit.edu/2020/version-control/)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [Resources to learn Git](https://try.github.io/)
+
+[^1]: 04-git_workshop of HPC
+[^2]: [Missing Semester Version Control lecture](https://missing.csail.mit.edu/2020/version-control/)
