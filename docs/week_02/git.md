@@ -1,7 +1,7 @@
 ---
 id: git
 title: Version Control Systems
-description: git
+description: How to use git
 sidebar_label: 'Version Control Systems'
 sidebar_position: 1
 ---
