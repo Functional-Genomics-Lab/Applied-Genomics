@@ -117,3 +117,24 @@ Now for practice, commit only the line that has "This will be the third commit"
 
 [^1]: 04-git_workshop of HPC
 [^2]: [Missing Semester Version Control lecture](https://missing.csail.mit.edu/2020/version-control/)
+
+#### Creating a remote
+
+1. [Create a GitHub account](https://github.com/join)
+2. On the left hand side you should see Repositories and a green button that
+   says New. Click it.
+3. Give the repo a name. `ag-git-intro` is recommended.
+4. Copy the code underneath "...or push an existing repository from the command line"
+   Should be something similar to:
+
+```bash
+git remote add origin https://github.com/<username>/ag-git-intro.git
+git branch -M main
+git push -u origin main
+```
+
+5. In VS Code hit `Ctrl+Shift+~`, this should open up a terminal in the bottom
+   of the screen. Past the commands in there.
+6. Check your GitHub repo and see if the code got pushed!
+
+### So what's a remote?
