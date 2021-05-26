@@ -15,9 +15,9 @@ sidebar_position: 1
 | Data Collection & Experiment | Record parameters and changes in lab notebook(paper/digital) |
 | Data processing & Analysis   | ?                                                            |
 
-```
+:::tip
 Version control of code == lab notebook of experiment
-```
+:::
 
 [^1]
 
