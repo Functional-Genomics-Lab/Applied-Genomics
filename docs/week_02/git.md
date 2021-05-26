@@ -57,14 +57,18 @@ folder/directory that has it's changes tracked by git.
 Now we're going to make our first change, stage that change, and then commit it.
 
 1. Create a new file called `README.md`.
-2. Add to the first line `# ag-intro` and save.
-3. Select the git graph icon on the left bar(It should have a blue 1)
-4. Click on the + button next to `README.md`.
+
+```md title="README.md"
+# ag-intro
+```
+
+2. Select the git graph icon on the left bar(It should have a blue 1)
+3. Click on the + button next to `README.md`.
 
 Our change has now been staged! We need to commit it to the git repo
 
-5. Type a message into the "Message" box ("Add README" would be a great message)
-6. Hit `Ctrl+Enter`
+4. Type a message into the "Message" box ("Add README" would be a great message)
+5. Hit `Ctrl+Enter`
 
 That was the first commit!
 
@@ -74,7 +78,7 @@ That was the first commit!
    - This is a handy way to jump between files in VS Code
 2. Change the file to have
 
-```md
+```md title="README.md"
 # ag-intro
 
 This is a mistake!
