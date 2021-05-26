@@ -49,7 +49,7 @@ folder/directory that has it's changes tracked by git.
 1. Open up VS Code, make sure you have the [functional genomics extension pack](https://marketplace.visualstudio.com/items?itemName=FunctionalGenomics.functional-genomics) installed
 2. `CTRL+Shift+p`
 3. Type in and select `Git: Initialize Repository`.
-4. Choose a folder. (name it `ag-git-intro`)
+4. Choose a folder. (name it `ag-intro`)
 5. Click the Open/Open in new window popup in the bottom right corner
 
 #### First Commit
@@ -57,7 +57,7 @@ folder/directory that has it's changes tracked by git.
 Now we're going to make our first change, stage that change, and then commit it.
 
 1. Create a new file called `README.md`.
-2. Add to the first line `# ag-git-intro` and save.
+2. Add to the first line `# ag-intro` and save.
 3. Select the git graph icon on the left bar(It should have a blue 1)
 4. Click on the + button next to `README.md`.
 
@@ -75,7 +75,7 @@ That was the first commit!
 2. Change the file to have
 
 ```md
-# ag-git-intro
+# ag-intro
 
 This is a mistake!
 This will be the second commit
@@ -123,12 +123,12 @@ Now for practice, commit only the line that has "This will be the third commit"
 1. [Create a GitHub account](https://github.com/join)
 2. On the left hand side you should see Repositories and a green button that
    says New. Click it.
-3. Give the repo a name. `ag-git-intro` is recommended.
+3. Give the repo a name. `ag-intro` is recommended.
 4. Copy the code underneath "...or push an existing repository from the command line"
    Should be something similar to:
 
 ```bash
-git remote add origin https://github.com/<username>/ag-git-intro.git
+git remote add origin https://github.com/<username>/ag-intro.git
 git branch -M main
 git push -u origin main
 ```
