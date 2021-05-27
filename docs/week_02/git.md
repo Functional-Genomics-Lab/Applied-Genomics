@@ -48,6 +48,15 @@ folder/directory that has it's changes tracked by git.
 4. Choose a folder. (name it `ag-intro`)
 5. Click the Open/Open in new window popup in the bottom right corner
 
+#### Set Your Identity
+
+In the integrated terminal put the following, but replace it with your name and email.
+
+```bash
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
+
 #### First Commit
 
 Now we're going to make our first change, stage that change, and then commit it.
