@@ -86,13 +86,36 @@ Utilize the UTD VPN Service:
    to `giant.utdallas.edu` if we haven't gotten accounts on sysbio yet)
 3. Password is your usual UTD password
 4. Open up a terminal `Ctrl+Shift+~`
-5. `sinfo`
+5. `sinfo` or `ls`
 
-You should see:
+There are plenty of other ways to login remotely. Here are some alternatives for you to play around with:
 
-<!-- TODO Add screenshot -->
+Windows:
+
+- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
+- [Mobaxterm](https://mobaxterm.mobatek.net/)
+
+MacOS:
+
+- [iTerm2](https://iterm2.com/downloads.html)
+
+## Intro to Unix
+
+Practical Research Computing Unix Lecture [^1]
+
+### Some basic commands
+
+You don't need to make flashcards to memorize them. Luckily if you're at a
+command line, you probably have access to a search engine, and what they do or
+what they were is just a search away.
+
+We're going to run through [The Missing Semester: The
+Shell](https://missing.csail.mit.edu/2020/course-shell/) together.
 
 # Assignment 1
 
 [Create a GitHub account](https://github.com/join) and submit your username
 through elearning.
+
+[^1]: [Practical Research Computing Unix Lecture](/practical-research-computing/02-unix.pdf)
+[^2]: [The Missing Semester: The Shell](https://missing.csail.mit.edu/2020/course-shell/)
