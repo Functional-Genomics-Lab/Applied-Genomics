@@ -85,9 +85,10 @@ Utilize the UTD VPN Service:
 3. `ssh <netid>@sysbio.utdallas.edu` (Or see [this guide to
    connect](https://oit.utdallas.edu/helpdesk/kb/?id=9472349b881c17a0a06f1944a4adda29f9761a1dc8)
    to `giant.utdallas.edu` if we haven't gotten accounts on sysbio yet)
-4. Password is your usual UTD password
-5. Open up a terminal `Ctrl+Shift+~`
-6. `sinfo` or `ls`
+4. Select `Linux` as the OS of the remote host
+5. Password is your usual UTD password
+6. Open up a terminal `Ctrl+Shift+~`
+7. `sinfo` or `ls`
 
 There are plenty of other ways to login remotely. Here are some alternatives for you to play around with:
 
