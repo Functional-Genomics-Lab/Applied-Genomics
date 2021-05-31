@@ -90,6 +90,15 @@ Utilize the UTD VPN Service:
 6. Open up a terminal `Ctrl+Shift+~`
 7. `sinfo` or `ls`
 
+:::caution
+
+If you're on windows you may need to follow if you're getting an error about
+[vscode remote connection error the process tried to write to a nonexistent
+pipe](https://stackoverflow.com/questions/60335069/vscode-remote-connection-error-the-process-tried-to-write-to-a-nonexistent-pipe),
+you need to set your ssh config manually.
+
+:::
+
 There are plenty of other ways to login remotely. Here are some alternatives for you to play around with:
 
 Windows:
