@@ -1,8 +1,8 @@
 ---
-id: git
+id: documentation
 title: Documentation
 description: How to use markdown
-sidebar_label: 'Version Control Systems'
+sidebar_label: 'Documentation'
 sidebar_position: 3
 ---
 
