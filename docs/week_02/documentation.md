@@ -53,8 +53,13 @@ This will be the third commit
 
 Let's open a preview of the README in VS Code. Search for the command `Markdown: Open Preview to the Side`
 
-# R Markdown
+# [R Markdown](https://rmarkdown.rstudio.com/)
+
+We're going to play around with R Markdown, a flavor of markdown that allows
+
+[R Markdown Lesson 1](https://rmarkdown.rstudio.com/lesson-1.html)
 
 # Further Reading
 
+- [Manubot](https://manubot.org/)
 - [Make a README](https://www.makeareadme.com/)
