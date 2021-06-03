@@ -48,6 +48,10 @@ folder/directory that has it's changes tracked by git.
 4. Choose a folder. (name it `ag-intro`)
 5. Click the Open/Open in new window popup in the bottom right corner
 
+:::caution
+Make sure you have installed `Git Lens` on remote machine.
+:::
+
 #### Set Your Identity
 
 In the integrated terminal put the following, but replace it with your name and email.
@@ -127,10 +131,9 @@ Now for practice, commit only the line that has "This will be the third commit"
 ### So what's a remote?
 
 > As you probably know, git is a distributed version control system. Most operations are done locally. To communicate with the outside world, git uses what are called remotes. These are repositories other than the one on your local disk which you can push your changes into (so that other people can see them) or pull from (so that you can get others changes). The command git remote add origin git@github.com:peter/first_app.gitcreates a new remote called origin located at git@github.com:peter/first_app.git. Once you do this, in your push commands, you can push to origin instead of typing out the whole URL.
-[^3]
+> [^3]
 
 ![GitHub Workflow](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.c-sharpcorner.com%2Farticle%2Fgit-and-github-version-control-local-and-remote-repository%2FImages%2FGit%2520And%2520Github%2520Version%2520Control.png&f=1&nofb=1)
-
 
 #### Creating a remote
 
