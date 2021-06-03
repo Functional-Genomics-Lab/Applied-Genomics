@@ -45,15 +45,26 @@ This will be the third commit
 
 ## Getting Started
 
-1. Clone the repo `git clone https://github.com/your-github-username/ag-intro`
-2. `cd ag-intro`
-3. Run `make`
-
+    git clone https://github.com/<your-github-username>/ag-intro
+    cd ag-intro
+    make
 ```
 
-Let's open a preview of the README in VS Code. Search for the command `Markdown:
-Open Preview to the Side`. This is helpful to have up while you're writing to
+Let's open a preview of the README in VS Code. Search for the command `Markdown: Open Preview to the Side`. This is helpful to have up while you're writing to
 see what the output will be while you get used to the syntax.
+
+### Merging a Branch
+
+:::info
+This is a callback to [git](./git) in case you skipped over that section!
+:::
+
+
+1. Checkout the `main` or `master` branch.
+   - `Git: Checkout to...` is the command
+2. Search for the command `Git: Merge Branch...`
+3. When prompted select `make`
+4. Search for the command `git log` (You'll need the Git History extension)
 
 # [R Markdown](https://rmarkdown.rstudio.com/)
 
