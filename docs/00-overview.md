@@ -19,3 +19,9 @@ sidebar_label: 'Overview'
 |                       8 | Lab: TBA                    | Lab: TBA                            |
 |                       9 | Final Project Presentations | Final Project Presentations         |
 |                      10 | Concluding Remarks          |                                     |
+
+# Course Alumni
+
+| Alumni        | Semester | GitHub    | ag-intro Repo                                               | Final Project Repo |
+| ------------- | -------- | --------- | ----------------------------------------------------------- | ------------------ |
+| Edmund Miller | 21U      | EMiller88 | [Emiller88/ag-intro](https://github.com/Emiller88/ag-intro) |                    |
