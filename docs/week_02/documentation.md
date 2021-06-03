@@ -51,11 +51,14 @@ This will be the third commit
 
 ```
 
-Let's open a preview of the README in VS Code. Search for the command `Markdown: Open Preview to the Side`
+Let's open a preview of the README in VS Code. Search for the command `Markdown:
+Open Preview to the Side`. This is helpful to have up while you're writing to
+see what the output will be while you get used to the syntax.
 
 # [R Markdown](https://rmarkdown.rstudio.com/)
 
 We're going to play around with R Markdown, a flavor of markdown that allows
+execution of R code, and them to be output as reports.
 
 [R Markdown Lesson 1](https://rmarkdown.rstudio.com/lesson-1.html)
 
