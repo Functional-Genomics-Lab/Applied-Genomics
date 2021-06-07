@@ -25,3 +25,4 @@ sidebar_label: 'Overview'
 | Alumni        | Semester | GitHub    | ag-intro Repo                                               | Final Project Repo |
 | ------------- | -------- | --------- | ----------------------------------------------------------- | ------------------ |
 | Edmund Miller | 21U      | EMiller88 | [Emiller88/ag-intro](https://github.com/Emiller88/ag-intro) |                    |
+| Edmund Miller | 21U      | muneeryaqub | [muneeryaqub/ag-intro](https://github.com/muneeryaqub/ag-intro) |                    |
