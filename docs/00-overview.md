@@ -25,3 +25,4 @@ sidebar_label: 'Overview'
 | Alumni        | Semester | GitHub    | ag-intro Repo                                               | Final Project Repo |
 | ------------- | -------- | --------- | ----------------------------------------------------------- | ------------------ |
 | Edmund Miller | 21U      | EMiller88 | [Emiller88/ag-intro](https://github.com/Emiller88/ag-intro) |                    |
+| Hiba Fatima   | 21U      | hxf190002 | [hxf190002/ag-intro](https://github.com/hxf190002/ag-intro) |                    |
