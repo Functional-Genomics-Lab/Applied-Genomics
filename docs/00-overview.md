@@ -11,7 +11,7 @@ sidebar_label: 'Overview'
 | ----------------------: | -------------------------------------------- | --------------------------------------------- |
 |       [1](./week_01.md) | Introduction                                 | [Setup Environment](./week_01.md)             |
 | [2](./week_02/intro.md) | [Reproducible Computing](./week_02/intro.md) | [Interactive Computing](./week_02/jupyter.md) |
-|                       3 | Databases and Datasets                       | Slurm STAR Tutorial                           |
+|                       3 | [Conda](./conda) and [Slurm](./HPC)          | Databases and Datasets                        |
 |                       4 | Transcriptomics                              | Intro to nf-core                              |
 |                       5 | Epigenomics                                  | ChIP-Seq Setup                                |
 |                       6 | Epigenomics                                  | ChIP-Seq Preprocessing with nf-core           |
