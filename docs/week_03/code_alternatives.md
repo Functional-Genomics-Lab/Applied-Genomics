@@ -14,6 +14,7 @@ Windows:
 
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab#)
 - [git for Windows](https://gitforwindows.org/)
+- [MobaXTerm and VS Code Setup](https://www.youtube.com/watch?v=GmMsTc55gLI)
 
 MacOS:
 
