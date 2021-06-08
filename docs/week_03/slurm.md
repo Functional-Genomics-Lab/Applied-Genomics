@@ -213,7 +213,8 @@ So let's actually run `featurecounts` and get the counts for our genes!
 ```bash
 login $ srun -p normal --time 1-00 --mem=8G --ntasks=8 --pty bash -i
 compute $ ml load subread
-compute $ featureCounts -t exon -g gene_id -a annotation.gtf -o counts.txt mapping_results_SE.bam
+compute $ featureCounts -t exon -g gene_id -a genome.gtf -o counts.txt test.paired_end.sorted.bam
+
 ```
 
 Pop open `counts.txt` with `cat counts.txt` and check out the data!
@@ -275,7 +276,7 @@ Open up a new file in your text editor
 #SBATCH --time=30:00
 
 ml load subread
-featureCounts -t exon -g gene_id -a annotation.gtf -o counts.txt mapping_results_SE.bam
+featureCounts -t exon -g gene_id -a genome.gtf -o counts.txt test.paired_end.sorted.bam
 ```
 
 And then submit it to the cluster with
