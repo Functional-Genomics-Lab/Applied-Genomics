@@ -3,7 +3,7 @@ id: hpc
 title: High Performance Computing
 description: 'How to use big computers'
 sidebar_label: 'HPC'
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 In the era of big data, we need big computers. Just like other expensive
