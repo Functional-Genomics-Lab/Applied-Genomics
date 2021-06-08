@@ -283,7 +283,7 @@ And then submit it to the cluster with
 
 ```bash
 login $ sbatch submit_job.sh
-login $ cat *.log
+login $ cat *.out
 ```
 
 ### Commit your Changes!
