@@ -35,7 +35,7 @@ While we're at it let's generate ssh keys so we don't have to type in our
 password everytime, and use it with our git repos as well. Public key based
 authentication is most secure and has advantages over other methods as well.
 
-[GitHub Docs for generating a new SSH key](https://gitforwindows.org/)
+[GitHub Docs for generating a new SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 First, add the public key to your GitHub. Then copy it to the remote machine with
 
