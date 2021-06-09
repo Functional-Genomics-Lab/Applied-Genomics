@@ -25,4 +25,4 @@ sidebar_label: 'Overview'
 | Alumni        | Semester | GitHub    | ag-intro Repo                                               | Final Project Repo |
 | ------------- | -------- | --------- | ----------------------------------------------------------- | ------------------ |
 | Edmund Miller | 21U      | EMiller88 | [Emiller88/ag-intro](https://github.com/Emiller88/ag-intro) |                    |
-| Saleh Karim   | 21U      | Salehkarim21 |[Salehkarim21/6-1-2021-Repo] (https://github.com/Salehkarim21/6-1-2021-Repo)| |
+| Saleh Karim   | 21U      | Salehkarim21 |[Salehkarim21/6-1-2021-Repo] (https://github.com/Salehkarim21/6-1-2021-Repo)|  |
