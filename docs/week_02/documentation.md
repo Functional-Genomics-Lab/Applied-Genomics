@@ -59,6 +59,7 @@ see what the output will be while you get used to the syntax.
 This is a callback to [git](./git) in case you skipped over that section!
 :::
 
+[Git Merge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwac-cdn.atlassian.com%2Fdam%2Fjcr%3A83323200-3c57-4c29-9b7e-e67e98745427%2FBranch-1.png%3FcdnVersion%3Djw&f=1&nofb=1)
 
 1. Checkout the `main` or `master` branch.
    - `Git: Checkout to...` is the command
