@@ -61,9 +61,9 @@ compute $
 ### Instant Gratification
 
 ```bash
-login-node $ srun -p normal --time 1-00 --mem=8G --ntasks=8 --pty bash -i
+login $ srun -p normal --time 1-00 --mem=8G --ntasks=8 --pty bash -i
 # Once you're logged into a node
-compute-node $ exit
+compute $ exit
 ```
 
 ### `scratch`
@@ -160,21 +160,30 @@ You can find more info at [Biostars handbook Common data types](https://www.bios
 
 - Local file to remote server
 
-`scp filename.txt hostname:/path/to/filename/filename.txt`
+```bash
+scp filename.txt hostname:/path/to/filename/filename.txt
+```
 
 - Remote server to local file
 
-`scp hostname:filename.txt .`
+```bash
+scp hostname:filename.txt .
+```
 
 - Recursive copies on directories also work with `-r`
 
-`scp –r hbar.ices.utexas.edu:public_html ~/tmp`
+```bash
+scp –r hbar.ices.utexas.edu:public_html ~/tmp
+```
 
-##### rsync-a fast, versatile, remote (and local) file-copying tool
+##### rsync - a fast, versatile, remote (and local) file-copying tool
 
 - Example 1. Synchronize Two Directories in a Local Server
 
-  `rsync-zvr/path/to/source /path/to/copy`
+
+```bash
+rsync -zvr /path/to/source /path/to/copy
+```
 
 - `z` - enable compression
 - `v` - verbose
@@ -182,7 +191,9 @@ You can find more info at [Biostars handbook Common data types](https://www.bios
 
 - Example 2. Preserve timestamps during Sync using rsync `–a`
 
-  `rsync-azv/path/to/source /path/to/copy`
+```bash
+rsync -azv /path/to/source /path/to/copy
+```
 
   - `-a` enters archive mode
   - Archive mode does the following:
@@ -214,7 +225,6 @@ So let's actually run `featurecounts` and get the counts for our genes!
 login $ srun -p normal --time 1-00 --mem=8G --ntasks=8 --pty bash -i
 compute $ ml load subread
 compute $ featureCounts -t exon -g gene_id -a genome.gtf -o counts.txt test.paired_end.sorted.bam
-
 ```
 
 Pop open `counts.txt` with `cat counts.txt` and check out the data!
@@ -268,7 +278,6 @@ Open up a new file in your text editor
 #!/bin/bash
 
 #SBATCH --job-name=featurecounts
-#SBATCH --output=logs/%x-%j.log
 #SBATCH --ntasks=8
 #SBATCH --nodes=1
 #SBATCH --mem=8G
