@@ -132,6 +132,8 @@ section](./git#first-commit) if you need a refresher!
 
 # Further reading
 
+- [Dev Hints Makefile cheatsheet](https://devhints.io/makefile)
+
 [^1]: [Learn X in Y minutes where X=make](https://learnxinyminutes.com/docs/make/)
 [^2]: UTD HPC Course Lecture 08
 [^3]: [Atlassian Git Branch Tutorial](https://www.atlassian.com/git/tutorials/using-branches)
