@@ -313,10 +313,24 @@ screen -r session_name
     Ctrl + A, K
 ```
 
-7. Launch the pipline
+7. Launch the pipeline
 
 ```bash
 nextflow run nf-core/rnaseq -r 3.2 -params-file nf
 ```
 
 The pipeline should start up, and email you when it's finished!
+
+
+## Download the Multiqc Report
+
+1. Open up the file explorer and navigate to
+   `results/multiqc/star_salmon/multiqc_report.html` and *right-click* the html
+   file and select Download.
+2. Now that the multiqc report is on your local computer open it up in a web
+   browser. Preferably next to the [pipeline's output
+   docs](https://nf-co.re/rnaseq/3.2/output).
+
+   Some files of note:
+   `results/salmon/*.tsv`: Various gene and transcript counts
+   `results/star_salmon/*.bam`: Aligned bam files
