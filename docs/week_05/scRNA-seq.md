@@ -27,6 +27,7 @@ Start the container on a computer node
 
 ```
 login $ srun --pty bash
+sysbio-0 $ ml load singularity
 sysbio-0 $ singularity exec /scratch/applied-genomics/scrnaseq/single-cell-analysis_210114.sif jupyter-lab
 ```
 
