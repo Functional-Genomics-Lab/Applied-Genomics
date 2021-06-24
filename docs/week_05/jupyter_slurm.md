@@ -55,6 +55,10 @@ Alternatively you can paste the url in VS Code to connect to it as well.
 
 ### What just happened?
 
+```bash
+compute node port 8888 -> login node port 8888 -> local computer port 8888
+```
+
 ## Handling Other Kernels for Jupyter
 
 [^1]: [Alexander Lab @ WHOI](https://alexanderlabwhoi.github.io/post/2019-03-08_jpn-slurm/)
