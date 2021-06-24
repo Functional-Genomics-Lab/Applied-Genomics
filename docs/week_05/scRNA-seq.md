@@ -2,7 +2,7 @@
 id: scrnaseq
 title: scRNA-Seq
 description: ''
-sidebar_label: 'Jupyter on Slurm'
+sidebar_label: 'scRNA-Seq'
 sidebar_position: 2
 ---
 
