@@ -22,9 +22,10 @@ sidebar_label: 'Overview'
 
 # Course Alumni
 
-| Alumni             | Semester | GitHub        | ag-intro Repo                                                       | Final Project Repo |
-| ------------------ | -------- | ------------- | ------------------------------------------------------------------- | ------------------ |
-| Edmund Miller      | 21U      | EMiller88     | [Emiller88/ag-intro](https://github.com/Emiller88/ag-intro)         |                    |
-| Stephanie Yamauchi | 21U      | syamauchi2000 | [syamauchi2000/ag-intro](https://github.com/syamauchi2000/ag-intro) |                    |
-| Hiba Fatima        | 21U      | hxf190002     | [hxf190002/ag-intro](https://github.com/hxf190002/ag-intro)         |                    |
-| Mufeed Kamal       | 21U      | Mufeedmk4     | [Mufeedmk4/ag-intro](https://github.com/Mufeedmk4/ag-intro)         |                    |
+| Alumni             | Semester | GitHub        | ag-intro Repo                                                                | Final Project Repo |
+| ------------------ | -------- | ------------- | ---------------------------------------------------------------------------- | ------------------ |
+| Edmund Miller      | 21U      | EMiller88     | [Emiller88/ag-intro](https://github.com/Emiller88/ag-intro)                  |                    |
+| Stephanie Yamauchi | 21U      | syamauchi2000 | [syamauchi2000/ag-intro](https://github.com/syamauchi2000/ag-intro)          |                    |
+| Hiba Fatima        | 21U      | hxf190002     | [hxf190002/ag-intro](https://github.com/hxf190002/ag-intro)                  |                    |
+| Mufeed Kamal       | 21U      | Mufeedmk4     | [Mufeedmk4/ag-intro](https://github.com/Mufeedmk4/ag-intro)                  |                    |
+| Saleh Karim        | 21U      | Salehkarim21  | [Salehkarim21/6-1-2021-Repo] (https://github.com/Salehkarim21/6-1-2021-Repo) |                    |
