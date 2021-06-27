@@ -29,3 +29,4 @@ sidebar_label: 'Overview'
 | Hiba Fatima        | 21U      | hxf190002     | [hxf190002/ag-intro](https://github.com/hxf190002/ag-intro)                  |                    |
 | Mufeed Kamal       | 21U      | Mufeedmk4     | [Mufeedmk4/ag-intro](https://github.com/Mufeedmk4/ag-intro)                  |                    |
 | Saleh Karim        | 21U      | Salehkarim21  | [Salehkarim21/6-1-2021-Repo] (https://github.com/Salehkarim21/6-1-2021-Repo) |                    |
+| Muneer Yaqub       | 21U      | muneeryaqub   | [muneeryaqub/ag-intro](https://github.com/muneeryaqub/ag-intro)              |                    |
