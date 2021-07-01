@@ -6,7 +6,11 @@ sidebar_label: 'scRNA-Seq'
 sidebar_position: 2
 ---
 
-# [theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
+#### GitHub Repo
+
+[theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
+
+#### Paper
 
 [Current best practices in single-cell RNA-seq analysis: a tutorial](https://pubmed.ncbi.nlm.nih.gov/31217225/)
 
