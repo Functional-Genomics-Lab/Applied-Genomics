@@ -8,3 +8,5 @@ sidebar_position: 3
 Finish the [scRNA-Seq Tutorial](scrnaseq) and submit the plot you find most
 interesting with a quick explanation of what the plot is showing and why it's
 significant.
+
+Drop your ideas for your final project in Teams! Please have something to discuss by Tuesday.
