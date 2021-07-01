@@ -27,3 +27,7 @@ sidebar_position: -1
 
 - [R in 2021 with VSCode](https://datamares.netlify.app/en/post/r-vscode/)
 - [Setting up VS Code for Python Development like RStudio](https://stevenmortimer.com/setting-up-vs-code-for-python-development-like-rstudio/)
+
+# Data
+
+- [Telling Stories with Data](https://www.tellingstorieswithdata.com/)
