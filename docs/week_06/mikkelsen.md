@@ -1,8 +1,9 @@
 ---
-id: week-6
+id: mikkelsen
 title: ChIP-Seq Preprocessing
-description: ''
-sidebar_label: 'Week 6'
+description: 'Reproducing Mikkelson with modern tools'
+sidebar_label: 'ChIP-Seq Preprocessing'
+sidebar_position: 10
 ---
 
 # ChIP-Seq Preprocessing {#lab}
@@ -91,3 +92,5 @@ xargs -n 1 curl -O -L < brain_control.txt
 ```
 
 ## Creating a samplesheet
+
+https://dib-lab.github.io/2020-workflows-paper/
