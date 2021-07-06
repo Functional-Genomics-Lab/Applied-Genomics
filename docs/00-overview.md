@@ -14,7 +14,7 @@ sidebar_label: 'Overview'
 |    3 | [Conda](./week_03/conda.md)                  | [HPC](./week_03/hpc.md)                                                   |
 |    4 | Transcriptomics                              | [Intro to nf-core](week_04/nf-core)                                       |
 |    5 | Epigenomics                                  | [Jupyter on Slurm](week_05/jupyter_slurm) & [scRNA-Seq](week_05/scrnaseq) |
-|    6 | Epigenomics                                  | [UCSC Genome Browser](week_05/ucsc) & [Xena Browser](week_06/xena)        |
+|    6 | Epigenomics                                  | [UCSC Genome Browser](week_06/ucsc) & [Xena Browser](week_06/xena)        |
 |    7 | Mutations                                    | Lab: TBA                                                                  |
 |    8 | Lab: TBA                                     | Lab: TBA                                                                  |
 |    9 | Final Project Presentations                  | Final Project Presentations                                               |
