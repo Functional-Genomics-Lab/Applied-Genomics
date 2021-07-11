@@ -42,7 +42,7 @@ export LD_LIBRARY_PATH=/opt/R/lib/R/lib
 export SHELL=/bin/bash
 export TERM=xterm-256color
 export LANG=en_US.UTF-8
-export $PATH
+echo $PATH
 export PATH=/opt/python/bin:/opt/R/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 ```
 
