@@ -2,9 +2,14 @@
 id: resources
 title: Resources
 description: Various links
-sidebar_label: "Resources"
+sidebar_label: 'Resources'
 sidebar_position: -1
 ---
+
+# Programmatic Analysis
+
+- [Enrichr API](https://maayanlab.cloud/Enrichr/help#api)
+- [Appyter](https://appyters.maayanlab.cloud/#/)
 
 # Scripting
 
@@ -13,11 +18,19 @@ sidebar_position: -1
 - [Awesome Reproducible
   Research](https://github.com/leipzig/awesome-reproducible-research)
 
-# Slurm
+# HPC
+
+- [rclone](https://docs.crc.nd.edu/general_pages/r/rclone.html)
+
+## Slurm
 
 - [UTD OIT HPC Docs](http://docs.oithpc.utdallas.edu)
 
 # nf-core
+
+# Jupyter
+
+- [Encode AWS examples](https://registry.opendata.aws/encode-project/)
 
 # Bioinformatics
 
