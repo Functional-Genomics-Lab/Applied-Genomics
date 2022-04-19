@@ -25,6 +25,12 @@ module.exports = {
         },
         { to: '/docs/resources', label: 'Resources', position: 'left' },
         {
+          type: 'docsVersionDropdown',
+          position: 'right',
+          dropdownItemsAfter: [{ to: '/versions', label: 'All versions' }],
+          dropdownActiveClassDisabled: true,
+        },
+        {
           label: 'Functional Genomics Laboratory',
           href: 'http://taehoonkim.org/',
           position: 'right',
@@ -56,6 +62,15 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/Functional-Genomics-Lab/Applied-Genomics/edit/main/',
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: 'Summer 22',
+            },
+            "21u": {
+              label: 'Summer 21',
+            },
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
