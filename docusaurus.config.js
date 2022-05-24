@@ -4,7 +4,7 @@ module.exports = {
   tagline: 'Course material for Applied Genomics ',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/Applied-Genomics/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', // FIXME
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Functional-Genomics-Lab', // Usually your GitHub org/user name.
