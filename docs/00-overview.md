@@ -7,19 +7,19 @@ sidebar_label: 'Overview'
 
 # Overview
 
-| WEEK | TUESDAY                                        | THURSDAY                                  |
-| ---: | ---------------------------------------------- | ----------------------------------------- |
-|    1 | Introduction/[Setup Environment](./week_01.md) | Intro to Unix                             |
-|    2 | [Reproducible Computing](./week_02/intro.md)   | Group Project 1 Introduction Lab          |
-|    3 | Transcriptomics                                | [Intro to nf-core](week_04/nf-core)       |
-|    4 | Tertiary Analysis Intro                        | Group Project Demo Day                    |
-|    5 | Epigenomics                                    | [Jupyter on Slurm](week_05/jupyter_slurm) |
-|    6 | Epigenomics                                    | [Jupyter on Slurm](week_05/jupyter_slurm) |
-|    7 | ChIP-seq                                       | ChIP-seq                                  |
-|    8 | Mutations                                      | Group Project 2 Demo Day                  |
-|    9 | Intro to module 3 project/Nextflow Scripting   | Nextflow Scripting                        |
-|   10 | Intro to Variant Calling                       | Variant Calling Continued/Xena Browser    |
-|   11 | Project Work Day                               | Group Demo Day/Concluding Remarks         |
+| WEEK | TUESDAY                                                          | THURSDAY                                  |
+| ---: | ---------------------------------------------------------------- | ----------------------------------------- |
+|    1 | Introduction/[Setup Environment](./week_01/environment_setup.md) | Intro to Unix                             |
+|    2 | [Reproducible Computing](./week_02/intro.md)                     | Group Project 1 Introduction Lab          |
+|    3 | Transcriptomics                                                  | [Intro to nf-core](week_04/nf-core)       |
+|    4 | Tertiary Analysis Intro                                          | Group Project Demo Day                    |
+|    5 | Epigenomics                                                      | [Jupyter on Slurm](week_05/jupyter_slurm) |
+|    6 | Epigenomics                                                      | [Jupyter on Slurm](week_05/jupyter_slurm) |
+|    7 | ChIP-seq                                                         | ChIP-seq                                  |
+|    8 | Mutations                                                        | Group Project 2 Demo Day                  |
+|    9 | Intro to module 3 project/Nextflow Scripting                     | Nextflow Scripting                        |
+|   10 | Intro to Variant Calling                                         | Variant Calling Continued/Xena Browser    |
+|   11 | Project Work Day                                                 | Group Demo Day/Concluding Remarks         |
 
 # Course Alumni
 

@@ -1,8 +1,8 @@
 ---
-id: week-1
+id: env
 title: Environment Setup
 description: ''
-sidebar_label: 'Week 1'
+sidebar_label: 'Environment Setup'
 sidebar_position: 1
 ---
 
@@ -110,18 +110,20 @@ MacOS:
 
 - [iTerm2](https://iterm2.com/downloads.html)
 
-## Intro to Unix
+## [Biostar Handbook: 8. Installing on a Computer Cluster](https://www.biostarhandbook.com/cluster-setup.html#cluster-setup)
 
-Practical Research Computing Unix Lecture [^1]
+We'll be following the text book for this section!
 
-### Some basic commands
+You'll need to run
 
-You don't need to make flashcards to memorize them. Luckily if you're at a
-command line, you probably have access to a search engine, and what they do or
-what they were is just a search away.
+```sh
+module load anaconda3
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
 
-We're going to run through [The Missing Semester: The
-Shell](https://missing.csail.mit.edu/2020/course-shell/) together.
+curl http://data.biostarhandbook.com/install/conda.txt | xargs conda install -q -y
+```
 
 # Assignment 1
 
