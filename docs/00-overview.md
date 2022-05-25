@@ -9,7 +9,7 @@ sidebar_label: 'Overview'
 
 | WEEK | TUESDAY                                                          | THURSDAY                                  |
 | ---: | ---------------------------------------------------------------- | ----------------------------------------- |
-|    1 | Introduction/[Setup Environment](./week_01/environment_setup.md) | Intro to Unix                             |
+|    1 | Introduction/[Setup Environment](./week_01/environment_setup.md) | [Intro to Unix](./week_01/intro_unix.md)  |
 |    2 | [Reproducible Computing](./week_02/intro.md)                     | Group Project 1 Introduction Lab          |
 |    3 | Transcriptomics                                                  | [Intro to nf-core](week_04/nf-core)       |
 |    4 | Tertiary Analysis Intro                                          | Group Project Demo Day                    |
