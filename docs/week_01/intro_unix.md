@@ -14,20 +14,36 @@ sidebar_position: 2
 
 ## [Biostar Handbook Unix Bootcamp](https://www.biostarhandbook.com/the-unix-bootcamp.html)
 
+:::info
+Page 144-169
+:::
+
 Open your `~/.bash_history` file after completing it and paste the commands you
 ran into a file named `unix-bootcamp.sh`
 
 ## [Biostar Handbook Defense against the dark arts](https://www.biostarhandbook.com/defense-dark-arts.html)
+
+:::info
+Page 170-173
+:::
 
 Open your `~/.bash_history` file after completing it and paste the commands you
 ran into a file named `dark-arts.sh`
 
 ## [Biostar Handbook Data analysis with Unix](https://www.biostarhandbook.com/unixanalyis.html#unixanalyis)
 
+:::info
+Page 174-188
+:::
+
 Open your `~/.bash_history` file after completing it and paste the commands you
 ran into a file named `data-analysis.sh`
 
 ## [Biostar Handbook Data Compression](https://www.biostarhandbook.com/data-compression.html#data-compression)
+
+:::info
+Page 189-195
+:::
 
 Open your `~/.bash_history` file after completing it and paste the commands you
 ran into a file named `data-compression.sh`
