@@ -125,6 +125,13 @@ conda config --add channels conda-forge
 curl http://data.biostarhandbook.com/install/conda.txt | xargs conda create -n biostars -q -y
 ```
 
+### Update prompt
+
+```sh
+curl http://data.biostarhandbook.com/install/bashrc.txt >> ~/.bashrc
+curl http://data.biostarhandbook.com/install/bash_profile.txt >> ~/.bash_profile
+```
+
 # Assignment 1
 
 [Create a GitHub account](https://github.com/join) and submit your username
