@@ -122,7 +122,7 @@ conda config --add channels defaults
 conda config --add channels bioconda
 conda config --add channels conda-forge
 
-curl http://data.biostarhandbook.com/install/conda.txt | xargs conda install -q -y
+curl http://data.biostarhandbook.com/install/conda.txt | xargs conda create -n biostars -q -y
 ```
 
 # Assignment 1
