@@ -154,6 +154,20 @@ git push -u origin main
    of the screen. Paste the commands in there.
 6. Check your GitHub repo and see if the code got pushed!
 
+# Submitting Assignment 1
+
+Let's make the tests pass!
+
+Open up your `~/.bash_history` and copy the commands for each section that you
+ran into some shell scripts. They don't have to be perfect!
+
+```
+code ~/.bash_history unix-bootcamp.sh dark-arts.sh data-analysis.sh data-compression.sh
+```
+
+You should see the GitHub classroom tests pass in your extension as well. These
+are just simple tests that are checking for the correct file.
+
 ## Further Reading
 
 - [Missing Semester Version Control lecture](https://missing.csail.mit.edu/2020/version-control/)
