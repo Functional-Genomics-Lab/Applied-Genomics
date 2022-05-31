@@ -37,17 +37,6 @@ In case you get lost check out [Further Reading](#further-reading)
 
 ### VS Code Workflow
 
-#### Creating a repo
-
-First we're going to initialize a git repository. This is just a
-folder/directory that has it's changes tracked by git.
-
-1. Open up VS Code, make sure you have the [functional genomics extension pack](https://marketplace.visualstudio.com/items?itemName=FunctionalGenomics.functional-genomics) installed
-2. `CTRL+Shift+p`
-3. Type in and select `Git: Initialize Repository`.
-4. Choose a folder. (name it `ag-intro`)
-5. Click the Open/Open in new window popup in the bottom right corner
-
 :::caution
 Make sure you have installed `Git Lens` on remote machine.
 :::
@@ -65,7 +54,7 @@ git config --global user.email johndoe@example.com
 
 Now we're going to make our first change, stage that change, and then commit it.
 
-1. Create a new file called `README.md`.
+1. Open the file called `README.md`.
 
 ```md title="README.md"
 # ag-intro
@@ -121,6 +110,10 @@ Now we want to commit our changes:
 Now for practice, commit only the line that has "This will be the third commit"
 
 #### Viewing changes
+
+:::warning
+This may not work on Sysbio becasue the git version is too old.
+:::
 
 1. In the Source Control window, open the "COMMITS" drawer. You should see
 
