@@ -3,7 +3,7 @@ id: documentation
 title: Documentation
 description: How to use markdown
 sidebar_label: 'Documentation'
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Documentation
@@ -45,7 +45,7 @@ This will be the third commit
 
 ## Getting Started
 
-    git clone https://github.com/<your-github-username>/ag-intro
+    git clone https://github.com/Applied-Genomics-UTD/reproducible-research-<your-github-username>.git
     cd ag-intro
     make
 ```
@@ -66,13 +66,6 @@ This is a callback to [git](./git) in case you skipped over that section!
 2. Search for the command `Git: Merge Branch...`
 3. When prompted select `make`
 4. Search for the command `git log` (You'll need the Git History extension)
-
-# [R Markdown](https://rmarkdown.rstudio.com/)
-
-We're going to play around with R Markdown, a flavor of markdown that allows
-execution of R code, and them to be output as reports.
-
-[R Markdown Lesson 1](https://rmarkdown.rstudio.com/lesson-1.html)
 
 # Further Reading
 

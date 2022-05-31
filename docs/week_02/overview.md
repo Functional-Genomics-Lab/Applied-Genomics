@@ -1,5 +1,5 @@
 ---
-id: intro
+id: overview
 title: Reproducible Research
 description: Reproducible Research
 sidebar_label: 'Reproducible Research'
@@ -28,4 +28,4 @@ but not be a comprehensive overview itself.
 
 # Introduction Reading
 
-Pages **465-471**
+Pages **465-471** in `The Biostar Handbook`
