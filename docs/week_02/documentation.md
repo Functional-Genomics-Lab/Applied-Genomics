@@ -46,12 +46,11 @@ This will be the third commit
 ## Getting Started
 
     git clone https://github.com/Applied-Genomics-UTD/reproducible-research-<your-github-username>.git
-    cd ag-intro
+    reproducible-research-<your-github-username>
     make
 ```
 
-Let's open a preview of the README in VS Code. Search for the command `Markdown: Open Preview to the Side`. This is helpful to have up while you're writing to
-see what the output will be while you get used to the syntax.
+Let's open a preview of the README in VS Code. Search for the command `Markdown: Open Preview to the Side`. This is helpful to have up while you're writing to see what the output will be while you get used to the syntax.
 
 ### Merging a Branch
 
@@ -62,9 +61,9 @@ This is a callback to [git](./git) in case you skipped over that section!
 [Git Merge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwac-cdn.atlassian.com%2Fdam%2Fjcr%3A83323200-3c57-4c29-9b7e-e67e98745427%2FBranch-1.png%3FcdnVersion%3Djw&f=1&nofb=1)
 
 1. Checkout the `main` or `master` branch.
-   - `Git: Checkout to...` is the command
+   - `Git: Checkout to...` is the VS Code command(`CTRL+Shift+P`)
 2. Search for the command `Git: Merge Branch...`
-3. When prompted select `make`
+3. When prompted type in `make`
 4. Search for the command `git log` (You'll need the Git History extension)
 
 # Further Reading
