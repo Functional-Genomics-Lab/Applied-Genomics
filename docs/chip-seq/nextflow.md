@@ -22,7 +22,7 @@ of more modern alternatives.
 Nextflow is an incredibly powerful and flexible workflow language. It's mainly
 used for bioinformatics analysis.
 
-```nextflow
+```groovy
 #!/usr/bin/env nextflow
 
 /\*
@@ -112,7 +112,7 @@ params.genome = "$baseDir/data/ggal/ggal_1_48850000_49020000.Ggal71.500bpflank.f
 
 ### DSL2 makes it a lot easier to follow
 
-```nextflow
+```groovy
 /*
  * Default pipeline parameters. They can be overriden on the command line eg.
  * given `params.foo` specify on the run command line `--foo some_value`.
