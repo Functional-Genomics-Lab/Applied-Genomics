@@ -17,9 +17,10 @@ of more modern alternatives.
 - [Snakemake](https://snakemake.readthedocs.io/en/stable/)
 - [Nextflow](https://www.nextflow.io/)
 
-## What's nextflow?
+## What is Nextflow?
 
-Nextflow is an incredibly powerful and flexible workflow language. It's mainly used for bioinformatics analysis.
+Nextflow is an incredibly powerful and flexible workflow language. It's mainly
+used for bioinformatics analysis.
 
 ```nextflow
 #!/usr/bin/env nextflow
