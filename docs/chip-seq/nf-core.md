@@ -41,7 +41,7 @@ ml load singularity
 4. Run
 
 ```bash
-nextflow run nf-core/chipseq -profile test,utd_sysbio -r dev --output test-run
+nextflow run nf-core/chipseq -profile test,utd_sysbio -r dev --outdir test-run
 ```
 
 ## Running the nf-core pipeline
