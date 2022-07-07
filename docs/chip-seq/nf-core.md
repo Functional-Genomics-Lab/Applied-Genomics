@@ -44,6 +44,15 @@ ml load singularity
 nextflow run nf-core/chipseq -profile test,utd_sysbio -r dev --outdir test-run
 ```
 
+5. Update your `.gitignore`
+
+```gitignore
+.nextflow*
+work/
+data/
+results/
+```
+
 ## Running the nf-core pipeline
 
 [Let's refer to the usage section of the pipeline's docs](https://nf-co.re/chipseq/dev/usage)
