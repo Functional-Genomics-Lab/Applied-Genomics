@@ -73,13 +73,17 @@ results/
 
 ```json title="nf-params.json"
 {
-    "input": "samplesheet.csv",
-    "read_length": 50,
-    "outdir": "ming-results",
-    "email": "<netid>@utdallas.edu",
-    "genome": "hg19"
+  "input": "samplesheet.csv",
+  "read_length": 50,
+  "macs_pvalue": "1e-5"
+  "outdir": "ming-results",
+  "email": "<netid>@utdallas.edu",
+  "genome": "hg19",
+  "macs_gsize": 2684219875
 }
 ```
+
+[Have to specify the macs_gsize for now](https://github.com/macs3-project/MACS/issues/353)
 
 5. We're going to need to create a samplesheet. [Please refer to the usage section of the pipeline's docs](https://nf-co.re/chipseq/dev/usage)
 
