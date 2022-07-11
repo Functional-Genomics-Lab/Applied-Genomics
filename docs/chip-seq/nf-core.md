@@ -75,7 +75,7 @@ results/
 {
   "input": "samplesheet.csv",
   "read_length": 50,
-  "macs_pvalue": "1e-5"
+  "macs_pvalue": "1e-5",
   "outdir": "ming-results",
   "email": "<netid>@utdallas.edu",
   "genome": "hg19",
