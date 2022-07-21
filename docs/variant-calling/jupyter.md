@@ -3,7 +3,7 @@ id: jupyter
 title: Jupyter
 description: How to use Jupyter Notebooks
 sidebar_label: 'Jupyter'
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 In the last section we touched on [R Markdown](./documentation#r-markdown),

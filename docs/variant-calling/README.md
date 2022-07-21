@@ -3,7 +3,7 @@ id: vc
 title: Variant Calling
 description: ''
 sidebar_label: 'Variant-Calling'
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Issues with Variant Calling
