@@ -22,6 +22,9 @@ sidebar_label: 'Overview'
 |   10 | Intro to Variant Calling                                         | Variant Calling Continued/Xena Browser   |
 |   11 | Project Work Day                                                 | Group Demo Day/Concluding Remarks        |
 
+
+Issues with Biostars? [Create an issue!](https://github.com/biostars/biostar-handbook/issues/new)
+
 # Course Alumni
 
 | Alumni             | Semester | GitHub        | ag-intro Repo                                                               |
