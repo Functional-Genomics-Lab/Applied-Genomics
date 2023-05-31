@@ -68,6 +68,9 @@ module.exports = {
           lastVersion: 'current',
           versions: {
             current: {
+              label: 'Summer 23',
+            },
+            "22u": {
               label: 'Summer 22',
             },
             "21u": {
