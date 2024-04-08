@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo is here to keep [the page](https://functional-genomics-lab.github.io/Applied-Genomics/) up for previous course content. The fork of the repo is now at [Applied-Genomics-UTD/docs](https://github.com/Applied-Genomics-UTD/docs).
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
